@@ -9,8 +9,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cicadaas-design&layout=compact&theme=dark)
 
 ### 🚀 My Projects
-- [Project 1](https://github.com/cicadaas-design/项目名1) - Brief description
-- [Project 2](https://github.com/cicadaas-design/项目名2) - Brief description
+- [Project 1](https://github.com/cicadaas-design/cicadaas-design) - my home page
 
 ### 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cicadaas-design)
